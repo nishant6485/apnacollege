@@ -2,4 +2,4 @@
 
 This is my first git repo:
 <br>
-Author- Nishant (ABES)
+Author- Nishant Agarwal
